@@ -1,0 +1,30 @@
+body{
+background-image: url(../image/wallhaven-nmmvvk.jpg ) ;
+background-size: 100%;
+}
+h2,p li {color: white;
+text-align: center;
+margin: 0;
+padding: 20px 0;
+text-shadow: 3px 3px 1px black;}
+header nav {
+	background: indianred;
+	overflow: hidden;
+	border-radius: 10px;}
+header nav ul{
+	list-style: none;}
+header nav ul li{
+	float: left;
+	border: solid; blue;
+	border-style: outset;
+	border-radius: 6px; }
+header nav ul li a{
+	text-align: center;
+	padding: 10px 70px;
+	display: block;
+	color: white;
+	text-decoration: none;}
+.tablabr{background: ghostwhite; }
+.btn{background: ghostwhite; border: solid black; border-radius: 10px;}
+p {color: white;}
+h2 {text-align: center; color: white; text-shadow: 3px 3px 1px black;}
